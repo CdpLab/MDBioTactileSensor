@@ -8,7 +8,7 @@
 ## <p align="center">ABSTRACT</p>
 Tactile perception is crucial for robotic dexterous manipulation, human–machine interaction, and intelligent wearable systems. However, existing artificial tactile systems still face significant challenges in the coordinated acquisition of multidimensional tactile information and in the accurate decoupling of pressure and friction during contact, which severely limits the precise interpretation of tactile information in interactive processes. Inspired by the multilayer structure of human skin and the cooperative mechanism of multiple receptors, this study designed and fabricated a hierarchical tactile sensor capable of simultaneously acquiring pressure, friction, and temperature information. Experimental results demonstrate that the sensor exhibits excellent pressure and friction sensing performance, fast response and recovery times (36/49 ms), and good cyclic stability, while also enabling reliable recognition of different sliding directions and stable acquisition of contact temperature. To address the nonlinear coupling between pressure and friction during contact, an FT-Transformer-based three-dimensional force decoupling model was developed, enabling accurate mapping from multichannel sensing signals to three-dimensional contact force components with high accuracy ($R^2 \geq$  0.99) and real-time output. Furthermore, based on the dynamic temporal responses of the sensor during pressing, a hardness recognition network was constructed, achieving a high classification accuracy of 99.25\% for materials with different hardness levels. These results indicate that the proposed sensor can support higher-level tactile cognition tasks.
 
-  
+---
 ## <p align="center">Overview</p>  
 Sensor model, fabrication method, control code, and model code. The following two images show the structure and prototype of our sensor.
 <div align=center>
@@ -16,10 +16,11 @@ Sensor model, fabrication method, control code, and model code. The following tw
 </div>
 
 
-
+---
 ## The Sensor folder contains the schematic diagrams of the sensors we designed 
 This sensor employs a multi-layer design strategy similar to human skin. From top to bottom, it consists of a encapsulation layer, a sensing layer, and a substrate layer, enabling it to simultaneously detect pressure, friction, and temperature.
 
+---
 ## Material and Methods
 
 ### Fabrication of conductive polymer force-sensing units
