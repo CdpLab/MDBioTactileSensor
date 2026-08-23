@@ -1,11 +1,7 @@
 <h1 align="center">Multimodal Perception and Three-Dimensional Force Decoupling Method for A Fingertip Bionic Tactile Sensor</h1>
 <div align=center>
 
- <p align="center">Dapeng Chen, Peng Gao, Zhenjie Ma, Zhou Zhuang, Zhangjia Deng, Hui Zhang, Yun Ling, Xuhui Hu, Hong Zeng, Lina Wei, Jia Liu, Qiang Zhao, and Aiguo Song</p>
-  <p align="center">Nanjing University of Information Science and Technology</p>
-  <p align="center">Southeast University</p>
-  <p align="center">Nanjing Research Institute of Simulation Technology</p>
-  <p align="center">Hangzhou City University</p>
+
 
 ---
 ## <p align="center">ABSTRACT</p>
